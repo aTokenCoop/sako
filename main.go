@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gabstv/go-monero/walletrpc"
+	"github.com/shopglobal/go-monero/walletrpc"
 	"github.com/gorilla/mux"
-	"github.com/onodera-punpun/sako/monero"
+	"github.com/shopglobal/sako/monero"
 	"github.com/onodera-punpun/sako/sse"
 )
 
