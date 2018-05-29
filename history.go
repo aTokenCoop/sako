@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gabstv/go-monero/walletrpc"
+	"github.com/shopglobal/go-monero/walletrpc"
 )
 
 func history(w http.ResponseWriter, r *http.Request) {
