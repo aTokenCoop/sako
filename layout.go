@@ -7,7 +7,7 @@ import (
 
 	"image/color"
 
-	"github.com/gabstv/go-monero/walletrpc"
+	"github.com/shopglobal/go-monero/walletrpc"
 	qrcode "github.com/skip2/go-qrcode"
 )
 
